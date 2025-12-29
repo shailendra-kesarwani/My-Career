@@ -1,5 +1,5 @@
 ---
-title: career_conversations1
+title: My-Career
 app_file: app.py
 sdk: gradio
 sdk_version: 5.49.1
